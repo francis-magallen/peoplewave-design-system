@@ -1,6 +1,11 @@
-@import "~bootstrap/dist/css/bootstrap.css";
 @import url('https://fonts.googleapis.com/css?family=Lato');
+@import 'variables';
 
 body {
     font-family: 'Lato', sans-serif;
+}
+
+// Buttons
+.btn-primary {
+    background-color: $brand-primary;
 }
