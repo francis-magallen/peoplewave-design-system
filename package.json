@@ -1,0 +1,26 @@
+{
+  "name": "peoplewave-design-system",
+  "version": "1.0.0",
+  "description": "The Peoplewave Design System is a series of individual styles and components, that uses Bootstrap 3 as a core CSS Framework.",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "node-sass": "^4.7.2",
+    "sass-loader": "^6.0.6",
+    "webpack": "^3.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francis-magallen/peoplewave-design-system.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francis-magallen/peoplewave-design-system/issues"
+  },
+  "homepage": "https://github.com/francis-magallen/peoplewave-design-system#readme"
+}

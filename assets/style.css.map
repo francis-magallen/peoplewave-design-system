@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAQ,8CAAmC;AACnC,2DAAmD;AAE3D,IAAK;EACD,WAAW,EAAE,kBAAkB",
+"sources": ["../dist/style.scss"],
+"names": [],
+"file": "style.css"
+}
